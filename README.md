@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Olá! Sou Vitor Manoel Vidal Braz, acadêmico de Sistemas de Informação na Univale - Universidade Vale do Rio Doce. Sou apaixonado(a) por tecnologia, inovação e por transformar ideias em soluções reais.</h3>
+<h3 align="left">Olá! Sou Vitor Manoel Vidal Braz, acadêmico de Sistemas de Informação na Univale - Universidade Vale do Rio Doce. Sou apaixonado por tecnologia e inovação.</h3>
 
 ###
 
