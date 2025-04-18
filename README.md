@@ -25,12 +25,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://i.gifer.com/4iKH.gif"  />
 </div>
