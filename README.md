@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/4iKH.gif"  />
+  <img height="200" src="https://tenor.com/search/mib-gifs"  />
 </div>
 
 ###
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <a href="https://linktr.ee/vitormanoelvb?fbclid=PAZXh0bgNhZW0CMTEAAabHsD1oiM5NAJgSTHrXMT5oraU6IAvON90D9rs1QW6gkSluImwxrEBRRE8_aem_vUES5wV83DudBdwTjeE_MQ" target="_blank">
+  <a href="https://linktr.ee/vitormanoelvidal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
